@@ -12,7 +12,7 @@ public class Increaser {
 		
 		@SuppressWarnings("resource")
 		Scanner keyboard = new Scanner(System.in);
-		valore = keyboard.nextInt();
+		value = keyboard.nextInt();
 		
 		System.out.println("The value added to increase is: " + value);
 		System.out.println("Here are the increased series:");
