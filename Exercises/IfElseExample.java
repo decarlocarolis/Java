@@ -1,8 +1,9 @@
 import java.util.Scanner;
 
+/* Just a simple if-else statement example */
+
 public class Ifelse {
 
-	
 	public static void main(String[] args) {
 		int score;
 		char vote;
